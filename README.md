@@ -1,6 +1,5 @@
 # NewsClassifier
 
-![CocoaPods Version](https://cocoapod-badges.herokuapp.com/v/DocumentClassifier/badge.png) [![Swift](https://img.shields.io/badge/swift-5.0-orange.svg?style=flat)](https://developer.apple.com/swift/) ![Platform](https://cocoapod-badges.herokuapp.com/p/DocumentClassifier/badge.png)
 
 ## Overview
 
